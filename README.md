@@ -22,13 +22,13 @@ accept conection to google account
 BASE_DIR = Path(Path.cwd(), "drive/MyDrive/")
 PROJECT_DIR = Path(BASE_DIR, "project_research")
 !mkdir -p {PROJECT_DIR}
-!git clone https://github.com/bluelabsai/cv-research.git {PROJECT_DIR}
+!git clone https://github.com/Crismarquez/research_env.git {PROJECT_DIR}
 </pre> 
 
 ## Local setup
 **Steps**
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/bluelabsai/cv-research
+<b>Step 1.</b> Clone this repository: https://github.com/Crismarquez/research_env.git
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
