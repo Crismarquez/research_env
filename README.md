@@ -1,2 +1,2 @@
 # research_env
-Utils directory for fast proptotyping in computer vision
+Utils directory for fast prototyping in computer vision
